@@ -5,12 +5,16 @@ div {
 }
 .rosa {
 	background-color: #ee3e64;
+	left: 50px;
 }
 .azul {
 	background-color: #44accf;
+	position: relative;
+	left: 200px;
 }
 .verde {
 	background-color: #b7d84b;
+	left: 50px;
 }
 body {
 	margin: 0px;
