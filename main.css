@@ -4,27 +4,23 @@ div {
 }
 .rosa {
 	background-color: #ee3e64;
-	position: absolute;
-	left: 0px;
-	top: 0px;
+	position: ;
 }
 .azul {
 	background-color: #44accf;
 	position: absolute;
-	right: 0px;
-	top: 0px;
+	left: 200px;
+	top: 200px;
 }
 .verde {
 	background-color: #b7d84b;
-	position: absolute;
-	left: 0px;
-	bottom: 0px;
+	position: ;
+	
 }
 .amarillo {
 	background-color: yellow;
-	position: absolute;
-	right: 0px;
-	bottom: 0px;
+	position: ;
+	
 }
 body {
 	margin: 0px;
