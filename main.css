@@ -1,20 +1,30 @@
 div {
 	width: 200px;
 	height: 200px;
-	position: static;
 }
 .rosa {
 	background-color: #ee3e64;
-	left: 50px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
 }
 .azul {
 	background-color: #44accf;
-	position: relative;
-	left: 200px;
+	position: absolute;
+	right: 0px;
+	top: 0px;
 }
 .verde {
 	background-color: #b7d84b;
-	left: 50px;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+}
+.amarillo {
+	background-color: yellow;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
 }
 body {
 	margin: 0px;
